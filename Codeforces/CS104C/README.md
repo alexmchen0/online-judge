@@ -1,17 +1,17 @@
-Codeforce problems submitted for UT course CS104C, Competitive Programming
+Codeforce solutions submitted for UT course CS104C, Competitive Programming
 
-Week 0: Introduction
+**Week 0**: Introduction
 
-Week 1: Finding Paths and Connected Components: DFS/BFS
+**Week 1**: Finding Paths and Connected Components: DFS/BFS
 
-Week 2: Shortest Path: Djikstra's Algorithm
+**Week 2**: Shortest Path: Djikstra's Algorithm
 
-Week 3: Binary Search
+**Week 3**: Binary Search
 
-Week 4: Shortest Path with Negative Weights: Bellman Ford
+**Week 4**: Shortest Path with Negative Weights: Bellman Ford
 
-Week 5: Eularian Paths/Top Sort
+**Week 5**: Eularian Paths/Top Sort
 
-Week 6: Greedy Algorithms
+**Week 6**: Greedy Algorithms
 
-Week 7: Dynamic Programming
+**Week 7**: Dynamic Programming
