@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Created by Alex on 2/1/17.
  * Problem: Serial Time!
- * Description: http://codeforces.com/problemset/problem/60/B
+ * http://codeforces.com/problemset/problem/60/B
  */
 public class W2_60B {
     private static int[] dl = {1, 0, 0, -1, 0, 0};

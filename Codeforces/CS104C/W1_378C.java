@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Created by Alex on 1/30/17.
  * Problem: Maze
- * Description: http://codeforces.com/problemset/problem/378/C
+ * http://codeforces.com/problemset/problem/378/C
  */
 public class W1_378C {
     private static int[] dr = {1, 0, -1, 0};

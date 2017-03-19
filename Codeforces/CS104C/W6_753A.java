@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by Alex on 3/6/17.
  * Problem: Santa Claus and Candies
- * Description: http://codeforces.com/problemset/problem/753/A
+ * http://codeforces.com/problemset/problem/753/A
  */
 public class W6_753A {
     public static void main(String[] args) {

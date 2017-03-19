@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by Alex on 1/30/17.
  * Problem: Ostap and Grasshopper
- * Description: http://codeforces.com/problemset/problem/735/A
+ * http://codeforces.com/problemset/problem/735/A
  */
 public class W1_735A {
     public static void main(String[] args) {

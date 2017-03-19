@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * Created by Alex on 2/26/17.
  * Problem: Fox and Names
- * Description: http://codeforces.com/problemset/problem/510/C
+ * http://codeforces.com/problemset/problem/510/C
  */
 public class W5_510C {
     private static boolean hasCycle(LinkedList<Integer>[] graph) {

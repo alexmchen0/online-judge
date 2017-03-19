@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Created by Alex on 2/13/17.
  * Problem: Interesting Drink
- * Description: http://codeforces.com/problemset/problem/706/B
+ * http://codeforces.com/problemset/problem/706/B
  */
 public class W3_706B {
     public static void main(String[] args) {

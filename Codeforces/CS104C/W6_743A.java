@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by Alex on 3/6/17.
  * Problem: Vladik And Flights
- * Description: http://codeforces.com/problemset/problem/743/A
+ * http://codeforces.com/problemset/problem/743/A
  */
 public class W6_743A {
     public static void main(String[] args) {

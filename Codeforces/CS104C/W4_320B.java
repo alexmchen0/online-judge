@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * Created by Alex on 2/17/17.
  * Problem: Ping-Pong (Easy Version)
- * Description: http://codeforces.com/problemset/problem/320/B
+ * http://codeforces.com/problemset/problem/320/B
  */
 public class W4_320B {
     private static class Interval {

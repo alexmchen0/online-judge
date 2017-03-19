@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by Alex on 2/27/17.
  * Problem: Strongly Connected City
- * Description: http://codeforces.com/problemset/problem/475/B
+ * http://codeforces.com/problemset/problem/475/B
  */
 public class W5_475B {
     public static void main(String[] args) {

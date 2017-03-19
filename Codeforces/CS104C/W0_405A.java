@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Created by Alex on 1/30/17.
  * Problem: Gravity Flip
- * Description: http://codeforces.com/problemset/problem/405/A
+ * http://codeforces.com/problemset/problem/405/A
  */
 public class W0_405A {
     public static void main(String[] args) {

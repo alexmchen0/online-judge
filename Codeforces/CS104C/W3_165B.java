@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by Alex on 2/12/17.
  * Problem: Burning Midnight Oil
- * Description: http://codeforces.com/problemset/problem/165/B
+ * http://codeforces.com/problemset/problem/165/B
  */
 public class W3_165B {
     public static void main(String[] args) {

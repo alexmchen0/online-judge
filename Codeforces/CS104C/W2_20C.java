@@ -4,7 +4,7 @@ import java.util.*;
 /**
  * Created by Alex on 2/6/17.
  * Problem: Dijkstra?
- * Description: http://codeforces.com/problemset/problem/20/C
+ * http://codeforces.com/problemset/problem/20/C
  */
 public class W2_20C {
     public static class Node implements Comparable<Node> {

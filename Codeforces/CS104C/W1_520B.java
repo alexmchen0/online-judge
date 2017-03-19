@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by Alex on 1/30/17.
  * Problem: Two Buttons
- * Description: http://codeforces.com/problemset/problem/520/B
+ * http://codeforces.com/problemset/problem/520/B
  */
 public class W1_520B {
     public static void main(String[] args) {
