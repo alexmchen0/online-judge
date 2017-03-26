@@ -15,3 +15,5 @@ Codeforce solutions submitted for UT course CS104C, Competitive Programming
 **Week 6**: Greedy Algorithms
 
 **Week 7**: Dynamic Programming
+
+**Week 8**: Dynamic Programming pt.2
