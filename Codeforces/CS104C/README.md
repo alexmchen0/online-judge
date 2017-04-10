@@ -17,3 +17,7 @@ Codeforce solutions submitted for UT course CS104C, Competitive Programming
 **Week 7**: Dynamic Programming
 
 **Week 8**: Dynamic Programming pt.2
+
+**Week 9**: Number Theory
+
+**Week 10 (A)**: Geometry and Convex Hull
