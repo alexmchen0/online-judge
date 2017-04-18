@@ -20,4 +20,6 @@ Codeforce solutions submitted for UT course CS104C, Competitive Programming
 
 **Week 9**: Number Theory
 
-**Week 10 (A)**: Geometry and Convex Hull
+**Week 10(A)**: Geometry and Convex Hull
+
+**Week 11(B)**: Segment Trees
