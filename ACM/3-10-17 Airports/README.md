@@ -1,1 +1,0 @@
-Problems can be found here: http://utacmcontest.com/contest
