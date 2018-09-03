@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 /**
- * Created by Alex on 3/18/17.
  * Problem: Cut Ribbon
  * http://codeforces.com/contest/189/problem/A
  */

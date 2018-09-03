@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 /**
- * Created by Alex on 1/30/17.
  * Problem: Ostap and Grasshopper
  * http://codeforces.com/problemset/problem/735/A
  */

@@ -2,7 +2,6 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * Created by Alex on 2/13/17.
  * Problem: Interesting Drink
  * http://codeforces.com/problemset/problem/706/B
  */

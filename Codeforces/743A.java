@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 /**
- * Created by Alex on 3/6/17.
  * Problem: Vladik And Flights
  * http://codeforces.com/problemset/problem/743/A
  */

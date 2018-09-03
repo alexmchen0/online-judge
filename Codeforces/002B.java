@@ -2,7 +2,6 @@ import java.util.*;
 import java.io.*;
 
 /**
- * Created by Alex on 3/18/17.
  * Problem: The least round way
  * http://codeforces.com/contest/2/problem/B
  */
@@ -28,7 +27,7 @@ public class W7_2B {
         }
         return count;
     }
-    
+
     private static Tuple[][] findDP(int[][] matrix, int factor) {
         int size = matrix.length;
         Tuple[][] dp = new Tuple[size][size];
@@ -146,6 +145,3 @@ public class W7_2B {
         }
     }
 }
-
-
-

@@ -1,7 +1,6 @@
 import java.util.*;
 
 /**
- * Created by Alex on 4/10/17.
  * http://codeforces.com/problemset/problem/514/B
  */
 public class WA_514B_2 {

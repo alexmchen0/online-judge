@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 /**
- * Created by Alex on 1/30/17.
  * Problem: Two Buttons
  * http://codeforces.com/problemset/problem/520/B
  */

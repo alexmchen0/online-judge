@@ -2,7 +2,6 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * Created by Alex on 1/30/17.
  * Problem: Gravity Flip
  * http://codeforces.com/problemset/problem/405/A
  */

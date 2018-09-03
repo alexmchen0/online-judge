@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 /**
- * Created by Alex on 2/12/17.
  * Problem: Burning Midnight Oil
  * http://codeforces.com/problemset/problem/165/B
  */

@@ -1,7 +1,6 @@
 import java.util.*;
 
 /**
- * Created by Alex on 2/26/17.
  * Problem: Fox and Names
  * http://codeforces.com/problemset/problem/510/C
  */

@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 /**
- * Created by Alex on 4/17/17.
  * http://codeforces.com/problemset/problem/295/A
  */
 public class WB_295A {

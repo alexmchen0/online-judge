@@ -1,7 +1,6 @@
 import java.util.*;
 
 /**
- * Created by Alex on 2/17/17.
  * Problem: Ping-Pong (Easy Version)
  * http://codeforces.com/problemset/problem/320/B
  */

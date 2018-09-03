@@ -3,7 +3,6 @@ import java.util.LinkedList;
 import java.util.Scanner;
 
 /**
- * Created by Alex on 2/27/17.
  * Problem: Strongly Connected City
  * http://codeforces.com/problemset/problem/475/B
  */

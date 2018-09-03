@@ -2,7 +2,6 @@ import java.util.LinkedList;
 import java.util.Scanner;
 
 /**
- * Created by Alex on 1/30/17.
  * Problem: Maze
  * http://codeforces.com/problemset/problem/378/C
  */

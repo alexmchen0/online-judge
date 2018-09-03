@@ -2,7 +2,6 @@ import java.util.LinkedList;
 import java.util.Scanner;
 
 /**
- * Created by Alex on 2/1/17.
  * Problem: Serial Time!
  * http://codeforces.com/problemset/problem/60/B
  */

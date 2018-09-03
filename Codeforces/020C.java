@@ -2,7 +2,6 @@ import java.io.IOException;
 import java.util.*;
 
 /**
- * Created by Alex on 2/6/17.
  * Problem: Dijkstra?
  * http://codeforces.com/problemset/problem/20/C
  */
